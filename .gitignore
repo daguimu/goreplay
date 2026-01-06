@@ -35,3 +35,4 @@ corpus
 crashers
 suppressions
 dist
+./claude
